@@ -1,4 +1,4 @@
-This shell extension is adding "Copy Link" functionality of Sharepoint web explorer 
+This shell extension is adding "Copy Link" functionality of Sharepoint modern web explorer 
 <img src="https://user-images.githubusercontent.com/56280244/67110705-a0391600-f1d3-11e9-8e4c-25df4b0889d7.JPG" width="40%"></img> 
 
 into Windows File explorer.
