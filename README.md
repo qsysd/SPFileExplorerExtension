@@ -1,4 +1,4 @@
-Class library is adding "Copy Link" functionality of Sharepoint modern document library view
+Class library SPFileExplorerExtension adds "Copy Link" functionality of Sharepoint modern document library view
 
 <img src="https://user-images.githubusercontent.com/56280244/67110705-a0391600-f1d3-11e9-8e4c-25df4b0889d7.JPG" width="50%"></img> 
 
