@@ -20,9 +20,9 @@ ServerRegistrationManager
 Sharepoint.Client
 Sharepoint.Client.Runtime
 
-for development testing "ServerManager.exe" is used by installing and registering the server (x64) and trying it on objects on J, K or L mapped drives.
+For development testing "ServerManager.exe" is used by installing and registering the server (x64) and trying it on objects on J, K or L mapped drives.
 
-It assumes that J, K,and L are Sharepoint mapped network drives and the menu is shown only on them. This can be changed (very simply) to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
+It is assumed that J, K,and L are Sharepoint mapped network drives and the menu is shown only on them. This can be changed (very simply) to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
 
 Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version 15 of Sharepoint.Client.
 
