@@ -10,7 +10,7 @@ ServerRegistrationManager
 Sharepoint.Client
 Sharepoint.Client.Runtime
 
-Testing the class library can be made using "ServerManager.exe" by installing and registering the server (x64) and then trying the right-click copntext menu on objects in J,K,L drives.
+Testing the class library can be made using "ServerManager.exe" by installing and registering the server (x64) and then trying the right-click on objects in J,K,L drives.
 
 The program assumes that J, K,and L are our mapped drives to Sharepoint document libraries, and "Sharepoint" menu is shown only on them. It can be changed to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
 
