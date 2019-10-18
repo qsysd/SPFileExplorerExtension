@@ -7,7 +7,7 @@ into Windows File explorer.
 
 Works on files and folders.
 
-Menu options descriptions are:
+Menu options are:
 
 - Copy Link - returns link to the document in DocID format (Document ID) or link to the folder in Path format (emulates behavior of web explorer)
 - Copy Path - returns link to the document in Path format
