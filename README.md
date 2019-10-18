@@ -21,12 +21,12 @@ ServerRegistrationManager
 Sharepoint.Client
 Sharepoint.Client.Runtime
 
-For development testing "ServerManager.exe" can be used, to install and register the server (x64) and to try it on objects on J, K or L mapped drives.
+For development testing can be used "ServerManager.exe", to install and register the server (x64) and to try it on objects on J, K or L mapped drives.
 
 It is assumed that J, K,and L are Sharepoint mapped network drives and the menu is shown only on them. This can be changed (very simply) to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
 
 Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version of Sharepoint.Client.
 
-I didn't test it with Sharepoint Online, and I think it will work with on-premises versions only, because it is using CSOM to interact with Sharepoint.
+This is for on-premises Sharepoint servers. I didn't test it with Sharepoint Online, and I don't think it would work, because it is using CSOM.
 
-Further info on making the installation msi file can be found on this link:  https://www.codeproject.com/Articles/653780/NET-Shell-Extensions-Deploying-SharpShell-Servers
+Further info on making the installation (msi file) can be found on this link:  https://www.codeproject.com/Articles/653780/NET-Shell-Extensions-Deploying-SharpShell-Servers
