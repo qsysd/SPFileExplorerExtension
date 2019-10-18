@@ -26,4 +26,4 @@ It assumes that J, K,and L are Sharepoint mapped network drives and menu is show
 
 Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version 15 of Sharepoint.Client.
 
-Further info on making the installation msi file with using srm.exe, can be found on this link:  https://www.codeproject.com/Articles/653780/NET-Shell-Extensions-Deploying-SharpShell-Servers
+Further info on making the installation msi file can be found on this link:  https://www.codeproject.com/Articles/653780/NET-Shell-Extensions-Deploying-SharpShell-Servers
