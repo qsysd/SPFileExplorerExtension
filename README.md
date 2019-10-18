@@ -26,6 +26,6 @@ It is assumed that J, K,and L are Sharepoint mapped network drives and the menu 
 
 Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version 15 of Sharepoint.Client.
 
-I didn't test it with Sharepoint Online, but I assume it works only with on-premises versions, because it is using CSOM to interact with Sharepoint.
+I didn't test it with Sharepoint Online, and I assume it works only with on-premises versions, because it is using CSOM to interact with Sharepoint.
 
 Further info on making the installation msi file can be found on this link:  https://www.codeproject.com/Articles/653780/NET-Shell-Extensions-Deploying-SharpShell-Servers
