@@ -1,3 +1,5 @@
+This shell extension is emulating
+
 Adds "Sharepoint" menu to right-click context menu in Windows File Explorer, with:
 
 <img src="https://user-images.githubusercontent.com/56280244/67110242-8e0aa800-f1d2-11e9-8ebd-2d89f9964b3f.jpg" width="60%"></img> 
