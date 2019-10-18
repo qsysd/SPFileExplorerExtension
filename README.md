@@ -1,6 +1,6 @@
 Adds "Sharepoint" menu to right-click context menu in Windows File Explorer, with:
 
-<img src="https://user-images.githubusercontent.com/56280244/67110242-8e0aa800-f1d2-11e9-8ebd-2d89f9964b3f.jpg" width="100%"></img> 
+<img src="https://user-images.githubusercontent.com/56280244/67110242-8e0aa800-f1d2-11e9-8ebd-2d89f9964b3f.jpg" width="60%"></img> 
 
 - Copy Link - returns link to the document in DocID format (Document ID) or link to the folder in Path format
 - Copy Path - returns link to the document in Path format
