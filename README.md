@@ -13,7 +13,7 @@ Menu options descriptions are:
 - Copy Path - returns link to the document in Path format
 - Open location in web browser - Opens the location in Sharepoint Web Explorer, using default browser.
 
-Required nu get packages (install them with Install-Package):
+Required NuGet packages (install them with Install-Package):
 SharpShell
 SharpShellTools
 ServerRegistrationManager
