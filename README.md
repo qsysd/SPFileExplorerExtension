@@ -25,7 +25,7 @@ For development testing "ServerManager.exe" can be used, to install and register
 
 It is assumed that J, K,and L are Sharepoint mapped network drives and the menu is shown only on them. This can be changed (very simply) to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
 
-Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version 15 of Sharepoint.Client.
+Tested with Windows 10 and Sharepoint 2019. Should also work with Sharepoint 2016, because of version of Sharepoint.Client.
 
 I didn't test it with Sharepoint Online, and I think it will work with on-premises versions only, because it is using CSOM to interact with Sharepoint.
 
