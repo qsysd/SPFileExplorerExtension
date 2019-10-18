@@ -1,7 +1,7 @@
 Adds "Sharepoint" menu to right-click context menu in Windows File Explorer, with:
-- Copy Link - returns link to the document in DocID format (Document ID)
-- Copy Path - returns link to the document in path format
-- Open in web browser - Opens the current location in Sharepoint's Web Explorer, using default browser.
+- Copy Link - returns link to the document in DocID format (Document ID) or link to the folder in Path format
+- Copy Path - returns link to the document in Path format
+- Open in web browser - Opens the location in Sharepoint Web Explorer, using default browser.
 
 Required packages (Install-Package):
 SharpShell
