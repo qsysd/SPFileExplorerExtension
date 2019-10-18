@@ -12,6 +12,6 @@ Sharepoint.Client.Runtime
 
 Testing the class library can be made using "ServerManager.exe" by installing  and registering the server (x64) and then trying the right-click copntext menu on objects in Sharepoint mapped drives.
 
-The program assumes that J, K,and L are your mapped network drives to Sharepoint document libraries, and "Sharepoint" menu is shown only on that drives. It can be changed to any other mapped drives, and any other URLs. (I've put contoso.com urls i.e.).
+The program assumes that J, K,and L are our mapped drives to Sharepoint document libraries, and "Sharepoint" menu is shown only on them. It can be changed to any other mapped drives, and any other URLs. (i.e. I've put contoso.com).
 
 Tested with Windows 10 and Sharepoint 2019. Probably works with Sharepoint 2016 too, because of version of the Sharepoint.Client (version 15).
