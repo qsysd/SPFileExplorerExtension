@@ -1,15 +1,17 @@
-This shell extension is bringing "Copy Link" functionality of Sharepoint web explorer into Windows File explorer.
+This shell extension is adding "Copy Link" functionality of Sharepoint web explorer 
 <img src="https://user-images.githubusercontent.com/56280244/67110705-a0391600-f1d3-11e9-8e4c-25df4b0889d7.JPG" width="40%"></img> 
 
-Adds "Sharepoint" menu to right-click context menu in Windows File Explorer:
+into Windows File explorer.
 
 <img src="https://user-images.githubusercontent.com/56280244/67110242-8e0aa800-f1d2-11e9-8ebd-2d89f9964b3f.jpg" width="60%"></img> 
 
-- Copy Link - returns link to the document in DocID format (Document ID) or link to the folder in Path format
-- Copy Path - returns link to the document in Path format
-- Open in web browser - Opens the location in Sharepoint Web Explorer, using default browser.
+Works on files and folders.
 
-And also on folders.
+Menu options descriptions are:
+
+- Copy Link - returns link to the document in DocID format (Document ID) or link to the folder in Path format (emulates behavior of web explorer)
+- Copy Path - returns link to the document in Path format
+- Open location in web browser - Opens the location in Sharepoint Web Explorer, using default browser.
 
 Required nu get packages (install them with Install-Package):
 SharpShell
